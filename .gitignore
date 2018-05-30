@@ -1,0 +1,14 @@
+
+Bot-scripts/reading-message.py
+.project
+.pydevproject
+*.py[co]
+*.log
+.env
+/ENV
+.vscode
+.idea
+./Bot-scripts/bot_db.py
+Bot-scripts/bot_mysql2.py
+Bot-scripts/bot_mysql2.py
+geckodriver.exe
